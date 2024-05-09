@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,header,form{
+    text-align: center;
+    color: rgb(117, 109, 99);
+    font-family: "Kanit", sans-serif;
+    font-weight: 900;
+  font-style: normal;
+
+}
+
+#nome,#e-mail,#telefone{
+   width: 200px;
+   margin: 16px;
+   color: rgb(117, 109, 99);
+   font-size: bold;
+   font-family: "Kanit", sans-serif;
+  font-weight: 800;
+  font-style: italic;
+
+}
+
+body{
+    background-color:black;
+    
+}
+.btn-sucess{
+    border-radius: 3%;
+}
